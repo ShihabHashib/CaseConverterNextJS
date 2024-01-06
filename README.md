@@ -2,6 +2,8 @@
 
 A simple web application built with Next.js, React, and Tailwind CSS for converting text between different cases: Uppercase, Lowercase, and Camel Case. Additionally, it includes the functionality to copy the converted text to the clipboard.
 
+<img src="https://github.com/ShihabHashib/CaseConverterNextJS/blob/6fc83954d2a1896ae49548744eceed4053397123/screenshot/Preview.png">
+
 ## Features
 
 - Convert text to Uppercase, Lowercase, or Camel Case
