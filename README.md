@@ -43,7 +43,7 @@ Open http://localhost:3000 in your browser.
 
 1. Enter text in the textarea.
 2. Choose the desired case conversion using the provided buttons.
-3. Optionally, click the "Copy to Clipboard" button to copy the converted text.
+3. Optionally, click the "Copy" button to copy the converted text.
 
 ## License
 
