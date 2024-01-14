@@ -45,6 +45,3 @@ Open http://localhost:3000 in your browser.
 2. Choose the desired case conversion using the provided buttons.
 3. Optionally, click the "Copy" button to copy the converted text.
 
-## License
-
-This project is licensed under the MIT License.
