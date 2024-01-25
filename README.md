@@ -6,9 +6,9 @@ A simple web application built with Next.js, React, and Tailwind CSS for convert
 
 ## Features
 
-- Convert text to Uppercase, Lowercase, or Camel Case
-- Easy-to-use interface with responsive design
-- Copy converted text to clipboard
+- Convert text to Uppercase, Lowercase, or Camel Case.
+- Easy-to-use interface with responsive design.
+- Copy converted text to clipboard.
 
 ## Technologies Used
 
