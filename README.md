@@ -13,7 +13,7 @@ A simple web application built with Next.js, React, and Tailwind CSS for convert
 ## Technologies Used
 
 - [Next.js](https://nextjs.org/) - React framework for server-side rendering.
-- [React](https://reactjs.org/) - JavaScript library for building user interfaces
+- [React](https://reactjs.org/) - JavaScript library for building user interfaces.
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
 - [react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) - Copy text to clipboard React component
 
