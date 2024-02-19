@@ -39,7 +39,7 @@ A simple web application built with Next.js, React, and Tailwind CSS for convert
 
 Open http://localhost:3000 in your browser.
 
-## Getting Started
+## How to use
 
 1. Enter text in the textarea.
 2. Choose the desired case conversion using the provided buttons.
